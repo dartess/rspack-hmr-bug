@@ -1,0 +1,19 @@
+{
+  "name": "test",
+  "scripts": {
+    "dev": "rspack serve"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^0.7.4",
+    "@rspack/core": "^0.7.4",
+    "@rspack/plugin-react-refresh": "^0.7.4",
+    "@types/react": "^18.2.77",
+    "@types/react-dom": "^18.2.25",
+    "react-refresh": "^0.14.2",
+    "typescript": "~5.4.5"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

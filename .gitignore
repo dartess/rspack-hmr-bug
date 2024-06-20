@@ -1,0 +1,14 @@
+.vscode
+.DS_STORE
+node_modules
+.module-cache
+*.log*
+/build
+dist
+.idea
+yarn.lock
+_draft
+_gen
+coverage/
+storybook-static
+.env
